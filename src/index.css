@@ -1,0 +1,1 @@
+@import "tailwindcss"; @theme { --font-sans: 'Inter', sans-serif; } body { @apply bg-orange-50 text-slate-900; }
